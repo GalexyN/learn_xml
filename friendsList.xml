@@ -1,0 +1,19 @@
+# XML = eXtensible Markup Language
+# Store and Transport Data
+# W3C Recommendation
+# software and hardware independent way of storing, transporting, and sharing Data
+# both human and machine readable
+<friendsList>
+    <friend>
+        <name>Alex</name>
+    </friend>
+    <friend>
+        <name>Mary</name>
+    </friend>
+    <friend>
+        <name>Rachel</name>
+    </friend>
+    <bestFriend>
+        <name>Alex</name>
+    </bestFriend>
+</friendsList>
